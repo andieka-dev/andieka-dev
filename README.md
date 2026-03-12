@@ -13,11 +13,6 @@ Currently focusing on:
 
 ---
 
-![Laravel](https://img.shields.io/badge/Laravel-red)
-![PHP](https://img.shields.io/badge/PHP-blue)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
-![Flutter](https://img.shields.io/badge/Flutter-blue)
-
 ## 🛠 Tech Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-red)
@@ -25,6 +20,7 @@ Currently focusing on:
 ![MySQL](https://img.shields.io/badge/MySQL-orange)
 ![Git](https://img.shields.io/badge/Git-black)
 ![Linux](https://img.shields.io/badge/Linux-yellow)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
 
 ---
 
