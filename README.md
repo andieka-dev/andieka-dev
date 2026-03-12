@@ -1,8 +1,15 @@
-# Hi I'm Andi Eka Saputra 👋
+## 👨‍💻 About Me
 
-Backend Developer from Indonesia 🇮🇩
+Hi, I'm **Andi Eka Saputra**  
+Final-year Informatics student from Indonesia 🇮🇩
 
-I am an Informatics student passionate about building web applications using Laravel and modern backend technologies.
+I am passionate about backend development and building web applications using **Laravel, PHP, and MySQL**.
+
+Currently focusing on:
+
+- Backend Development
+- REST API Development
+- Laravel Web Applications
 
 ---
 
@@ -11,14 +18,13 @@ I am an Informatics student passionate about building web applications using Lar
 ![MySQL](https://img.shields.io/badge/MySQL-orange)
 ![Flutter](https://img.shields.io/badge/Flutter-blue)
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- Laravel
-- PHP
-- MySQL
-- REST API
-- Flutter
-- Linux
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![PHP](https://img.shields.io/badge/PHP-blue)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
+![Git](https://img.shields.io/badge/Git-black)
+![Linux](https://img.shields.io/badge/Linux-yellow)
 
 ---
 
@@ -36,6 +42,14 @@ Web-based archive management system for managing incoming and outgoing letters.
 - Backend Engineering
 - REST API Development
 - DevOps Basics
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andieka-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andieka-dev&layout=compact&theme=tokyonight)
 
 ---
 
