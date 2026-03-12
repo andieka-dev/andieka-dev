@@ -6,6 +6,11 @@ I am an Informatics student passionate about building web applications using Lar
 
 ---
 
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![PHP](https://img.shields.io/badge/PHP-blue)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+
 ## Tech Stack
 
 - Laravel
