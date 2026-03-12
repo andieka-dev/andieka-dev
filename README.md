@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi I'm Andi Eka Saputra 👋
 
-<!--
-**andieka-dev/andieka-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+I am an Informatics student passionate about building web applications using Laravel and modern backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+- Laravel
+- PHP
+- MySQL
+- REST API
+- Flutter
+- Linux
+
+---
+
+## Featured Projects
+
+### Laravel Archive System
+Web-based archive management system for managing incoming and outgoing letters.
+
+🔗 https://github.com/andieka-dev/laravel-archive-system
+
+---
+
+## Currently Learning
+
+- Backend Engineering
+- REST API Development
+- DevOps Basics
+
+---
+
+## Connect with Me
+
+GitHub : https://github.com/andieka-dev
